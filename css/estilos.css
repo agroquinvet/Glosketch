@@ -10,4 +10,17 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: green;
+    font-size: 16px;
+}
+
+#container{
+    width: 70%;
+    padding: 1rem;
+    text-align: left;
+    border: 1xp solid blueviolet;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
