@@ -12,6 +12,12 @@ body {
     color: green;
     font-size: 16px;
 }
+#cabecera{
+    background-color: chocolate;
+    color: black;
+    width: 100%;
+    border: 3px solid black;
+}
 
 #container{
     width: 70%;
